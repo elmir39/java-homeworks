@@ -1,8 +1,6 @@
 package hw01_number_guess;
 
-import javax.swing.*;
 import java.util.Arrays;
-import java.util.Collection;
 import java.util.Random;
 import java.util.Scanner;
 

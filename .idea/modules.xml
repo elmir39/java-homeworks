@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Inheritance/Inheritance.iml" filepath="$PROJECT_DIR$/Inheritance/Inheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hello-world/hello-world.iml" filepath="$PROJECT_DIR$/hello-world/hello-world.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hw01-happy-family-project/hw01-happy-family-project.iml" filepath="$PROJECT_DIR$/hw01-happy-family-project/hw01-happy-family-project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hw01-number-guess/hw01-number-guess.iml" filepath="$PROJECT_DIR$/hw01-number-guess/hw01-number-guess.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hw02_happy_family/hw02_happy_family.iml" filepath="$PROJECT_DIR$/hw02_happy_family/hw02_happy_family.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hw03_happy_family/hw03_happy_family.iml" filepath="$PROJECT_DIR$/hw03_happy_family/hw03_happy_family.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/java-homeworks.iml" filepath="$PROJECT_DIR$/.idea/java-homeworks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/uml/uml.iml" filepath="$PROJECT_DIR$/uml/uml.iml" />
+    </modules>
+  </component>
+</project>

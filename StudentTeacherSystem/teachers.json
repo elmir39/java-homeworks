@@ -1,0 +1,16 @@
+[ {
+  "name" : "Mr. Smith",
+  "age" : 35,
+  "teacherId" : "T001",
+  "courseName" : "Math"
+}, {
+  "name" : "Ms. Johnson",
+  "age" : 40,
+  "teacherId" : "T002",
+  "courseName" : "Physics"
+}, {
+  "name" : "Dr. Brown",
+  "age" : 45,
+  "teacherId" : "T003",
+  "courseName" : "Chemistry"
+} ]

@@ -1,0 +1,17 @@
+{
+  "courseStudentMarks" : {
+    "Chemistry" : {
+      "Bob" : 80.0,
+      "Alice" : 95.0,
+      "Charlie" : 78.0
+    },
+    "Math" : {
+      "Bob" : 90.0,
+      "Alice" : 85.0
+    },
+    "Physics" : {
+      "Bob" : 88.0,
+      "Charlie" : 92.0
+    }
+  }
+}

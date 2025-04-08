@@ -1,0 +1,78 @@
+[ {
+  "name" : "Math",
+  "students" : [ {
+    "name" : "Alice",
+    "age" : 20,
+    "studentId" : "S001",
+    "averageMark" : 90.0
+  }, {
+    "name" : "Alice",
+    "age" : 20,
+    "studentId" : "S001",
+    "averageMark" : 90.0
+  }, {
+    "name" : "Bob",
+    "age" : 22,
+    "studentId" : "S002",
+    "averageMark" : 86.0
+  }, {
+    "name" : "Bob",
+    "age" : 22,
+    "studentId" : "S002",
+    "averageMark" : 86.0
+  } ],
+  "teachers" : [ {
+    "name" : "Mr. Smith",
+    "age" : 35,
+    "teacherId" : "T001",
+    "courseName" : "Math"
+  } ]
+}, {
+  "name" : "Physics",
+  "students" : [ {
+    "name" : "Bob",
+    "age" : 22,
+    "studentId" : "S002",
+    "averageMark" : 86.0
+  }, {
+    "name" : "Bob",
+    "age" : 22,
+    "studentId" : "S002",
+    "averageMark" : 86.0
+  }, {
+    "name" : "Charlie",
+    "age" : 21,
+    "studentId" : "S003",
+    "averageMark" : 85.0
+  }, {
+    "name" : "Charlie",
+    "age" : 21,
+    "studentId" : "S003",
+    "averageMark" : 85.0
+  } ],
+  "teachers" : [ {
+    "name" : "Ms. Johnson",
+    "age" : 40,
+    "teacherId" : "T002",
+    "courseName" : "Physics"
+  } ]
+}, {
+  "name" : "Chemistry",
+  "students" : [ {
+    "name" : "Alice",
+    "age" : 20,
+    "studentId" : "S001",
+    "averageMark" : 90.0
+  }, {
+    "name" : "Alice",
+    "age" : 20,
+    "studentId" : "S001",
+    "averageMark" : 90.0
+  } ],
+  "teachers" : [ {
+    "name" : "Dr. Brown",
+    "age" : 45,
+    "teacherId" : "T003",
+    "courseName" : "Chemistry"
+  } ]
+} ]

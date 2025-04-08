@@ -1,0 +1,29 @@
+[ {
+  "name" : "Alice",
+  "age" : 20,
+  "studentId" : "S001",
+  "coursesAndMarks" : {
+    "Chemistry" : 95.0,
+    "Math" : 85.0
+  },
+  "averageMark" : 90.0
+}, {
+  "name" : "Bob",
+  "age" : 22,
+  "studentId" : "S002",
+  "coursesAndMarks" : {
+    "Chemistry" : 80.0,
+    "Math" : 90.0,
+    "Physics" : 88.0
+  },
+  "averageMark" : 86.0
+}, {
+  "name" : "Charlie",
+  "age" : 21,
+  "studentId" : "S003",
+  "coursesAndMarks" : {
+    "Chemistry" : 78.0,
+    "Physics" : 92.0
+  },
+  "averageMark" : 85.0
+} ]
